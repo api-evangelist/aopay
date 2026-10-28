@@ -64,5 +64,132 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-AOPAY Technology is a company surfaced via the API Evangelist harvest backlog (source: g2-catalog) and added to the network as a stub for full-pipeline profiling.
-- https://aopay.in/
+AOPAY Technology provides an integrated fintech platform offering banking, lending, payments, and financial services solutions. Their suite includes payment gateway, UPI QR code, virtual accounts, escrow, connected banking, credit reporting, and various APIs for travel, loan management, and microfinance. Targeting NBFCs, banks, and digital lenders, AOPAY aims to replace multiple vendors with a unified, PCI‑DSS certified, RBI‑aligned infrastructure, enabling businesses to automate verification, collections, and financial operations.
+
+**Areas:** Fintech · Payments · Banking · NBFC
+
+## AOPAY Technology on APIs.io
+
+Everything profiled for AOPAY Technology is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/aopay/](https://apis.io/providers/aopay/)** — or go straight to one of the APIs or properties below.
+
+### APIs (20)
+
+- [AOPAY Payments API](https://apis.io/apis/aopay/aopay-payments-api/) — Payment and payout APIs for merchants.
+- [AOPAY Technology Ancillaries API](https://apis.io/apis/aopay/aopay-ancillaries-api/) — The Ancillaries API from AOPAY Technology — 1 operation(s) for ancillaries.
+- [AOPAY Technology Bookings API](https://apis.io/apis/aopay/aopay-bookings-api/) — The Bookings API from AOPAY Technology — 4 operation(s) for bookings.
+- [AOPAY Technology Brand API](https://apis.io/apis/aopay/aopay-brand-api/) — The Brand API from AOPAY Technology — 1 operation(s) for brand.
+- [AOPAY Technology Bus API](https://apis.io/apis/aopay/aopay-bus-api/) — The Bus API from AOPAY Technology — 3 operation(s) for bus.
+- [AOPAY Technology Create API](https://apis.io/apis/aopay/aopay-create-api/) — The Create API from AOPAY Technology — 1 operation(s) for create.
+- [AOPAY Technology Deposit API](https://apis.io/apis/aopay/aopay-deposit-api/) — The Deposit API from AOPAY Technology — 1 operation(s) for deposit.
+- [AOPAY Technology Flights API](https://apis.io/apis/aopay/aopay-flights-api/) — The Flights API from AOPAY Technology — 3 operation(s) for flights.
+- [AOPAY Technology Hotel API](https://apis.io/apis/aopay/aopay-hotel-api/) — The Hotel API from AOPAY Technology — 1 operation(s) for hotel.
+- [AOPAY Technology Investment API](https://apis.io/apis/aopay/aopay-investment-api/) — The Investment API from AOPAY Technology — 1 operation(s) for investment.
+- [AOPAY Technology Payment API](https://apis.io/apis/aopay/aopay-payment-api/) — The Payment API from AOPAY Technology — 2 operation(s) for payment.
+- [AOPAY Technology Recurring Deposit API](https://apis.io/apis/aopay/aopay-recurring-deposit-api/) — The Recurring Deposit API from AOPAY Technology — 1 operation(s) for recurring deposit.
+- [AOPAY Technology Reports API](https://apis.io/apis/aopay/aopay-reports-api/) — The Reports API from AOPAY Technology — 1 operation(s) for reports.
+- [AOPAY Technology Search API](https://apis.io/apis/aopay/aopay-search-api/) — The Search API from AOPAY Technology — 1 operation(s) for search.
+- [AOPAY Technology Seats API](https://apis.io/apis/aopay/aopay-seats-api/) — The Seats API from AOPAY Technology — 1 operation(s) for seats.
+- [AOPAY Technology Tickets API](https://apis.io/apis/aopay/aopay-tickets-api/) — The Tickets API from AOPAY Technology — 1 operation(s) for tickets.
+- [AOPAY Technology Trains API](https://apis.io/apis/aopay/aopay-trains-api/) — The Trains API from AOPAY Technology — 2 operation(s) for trains.
+- [AOPAY Technology Wallet API](https://apis.io/apis/aopay/aopay-wallet-api/) — The Wallet API from AOPAY Technology — 2 operation(s) for wallet.
+- [AOPAY Technology Webhook API](https://apis.io/apis/aopay/aopay-webhook-api/) — The Webhook API from AOPAY Technology — 1 operation(s) for webhook.
+- [AOPAY Technology Whitelabel API](https://apis.io/apis/aopay/aopay-whitelabel-api/) — The Whitelabel API from AOPAY Technology — 1 operation(s) for whitelabel.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [PostApiV1V1IdCreateRequest](https://apis.io/schemas/aopay/aopay-post-api-v1-v1-id-create-request/)
+- [PostApiV1V1IdCreateResponse](https://apis.io/schemas/aopay/aopay-post-api-v1-v1-id-create-response/)
+- [PostApiV1WalletWalletidRequest](https://apis.io/schemas/aopay/aopay-post-api-v1-wallet-walletid-request/)
+- [PostV1HotelSearchRequest](https://apis.io/schemas/aopay/aopay-post-v1-hotel-search-request/)
+- [PostV1HotelSearchResponse](https://apis.io/schemas/aopay/aopay-post-v1-hotel-search-response/)
+- [PostV2V2IdSearchResponse](https://apis.io/schemas/aopay/aopay-post-v2-v2-id-search-response/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Aopay Context](https://apis.io/jsonld/aopay/aopay-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [AOPAY Technology API Rules](https://apis.io/rules/aopay/aopay-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Aopay Authentication](https://apis.io/security/aopay/aopay-authentication/)
+- [Aopay Domain Security](https://apis.io/security/aopay/aopay-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://aopay.in/)
+- [Getting started](https://aopay.in/gst-verification-api)
+- [Pricing](https://aopay.in/pricing)
+- [Support](https://aopay.in/contact-us)
+- [Blog](https://aopay.in/blog)
+- [Terms of service](https://aopay.in/terms-conditions)
+- [Privacy policy](https://aopay.in/privacy-policy)
+
+## API Evangelist rating
+
+**Kin Score 28.9** — thin · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 60.7 |
+| Contract quality | 25.5 |
+| Contract governance | 35.6 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 31.0 |
+| Access clarity | 31.6 |
+
+**Agent readiness 19.7** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | documented (partial credit) |
+| MCP Server | — |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 22.8** — Banking & Open Finance
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/aopay/](https://apis.io/providers/aopay/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for AOPAY Technology: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/aopay/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
